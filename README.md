@@ -11,9 +11,9 @@ Framework:
 The site built with Rails.
 
 Features:
-•	The bcrypt gem and OAuth authentication with GitHub using OmniAuth to improve site security
-•	Database schema and configured ActiveRecord associations using Rails
-•	Browser cookies and sessions object to allow users to sign in and out
+1.	The bcrypt gem and OAuth authentication with GitHub using OmniAuth to improve site security
+2.	Database schema and configured ActiveRecord associations using Rails
+3.	Browser cookies and sessions object to allow users to sign in and out
 
 Installation:
 1.	Fork and Clone the repo
