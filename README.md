@@ -1,5 +1,5 @@
 Project Overview: 
-	rails-project-the-studio - Is a project management site specifically for a design studio that has many clients. Each client has 	many projects which are assigned a manager to oversee them.
+	rails-project-the-studio - Is a project management site specifically for a design studio that has many clients. Each client has 	many projects which are assigned a manager to oversee.
 
 Motivation:
 	Currently, the company that this site is designed for uses Excel files to manage their project management needs. This option will 	  soon become unmanageable.
