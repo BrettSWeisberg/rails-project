@@ -1,14 +1,14 @@
 Project Title: 
-rails-project-the-studio - Is a customer management site specifically for a design studio that has many clients. Each client has many projects both of each are assigned a manager to oversee them.
+	rails-project-the-studio - Is a customer management site specifically for a design studio that has many clients. Each client has 	many projects both of each are assigned a manager to oversee them.
 
 Motivation:
-Currently the company this site is designed for uses excel files to manage their project management needs.
+	Currently the company this site is designed for uses excel files to manage their project management needs.
 
 Build Status:
-The site is still a work in progress and future iteration will include JavaScript
+	The site is still a work in progress and future iteration will include JavaScript
 
 Framework:
-The site built with Rails.
+	The site built with Rails.
 
 Features:
 1.	The bcrypt gem and OAuth authentication with GitHub using OmniAuth to improve site security
@@ -21,8 +21,9 @@ Installation:
 3.	Run rake db:migrate
 
 Start coding!
+
 Tests:
-There are currently no tests within the repo. All testing was done in the browser.
+	There are currently no tests within the repo. All testing was done in the browser.
 
 License:
 	This code is open source and free for anyone to use. The license agreement is the MIT open source agreement.
