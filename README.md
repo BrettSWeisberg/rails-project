@@ -2,7 +2,7 @@ Project Title:
 	rails-project-the-studio - Is a customer management site specifically for a design studio that has many clients. Each client has 	many projects both of each are assigned a manager to oversee them.
 
 Motivation:
-	Currently the company this site is designed for uses excel files to manage their project management needs.
+	Currently, the company this site is designed for uses excel files to manage their project management needs.
 
 Build Status:
 	The site is still a work in progress and future iteration will include JavaScript
@@ -16,7 +16,7 @@ Features:
 3.	Browser cookies and sessions object to allow users to sign in and out
 
 Installation:
-1.	Fork and Clone the repo
+1.	Fork and clone the repo
 2.	Update .env with GitHub developer information
 3.	Run rake db:migrate
 
