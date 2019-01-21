@@ -1,5 +1,7 @@
+## Project Name: rails-project
+
 ## Project Overview: 
-rails-project - Is a project management site specifically for a design studio that has many clients. Each client could have many projects both of which are assigned a manager to oversee.
+Is a project management site specifically for a design studio that has many clients. Each client could have many projects both of which are assigned a manager to oversee.
 
 ## Motivation: 
 Currently, the company that this site is designed for uses Excel files to manage their project management needs. This option will soon become unmanageable.
